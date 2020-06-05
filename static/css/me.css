@@ -1,0 +1,21 @@
+.m-padded-tb-mini {
+    padding-top: 0.2em !important;
+    padding-bottom: 0.2em !important;
+}
+.m-padded-tb-massive{
+    padding-top: 5em !important;
+    padding-bottom: 5em !important;
+}
+/*----text---*/
+.m-text-thin{
+    /*--宽度--*/
+    font-weight: 300 !important;
+}
+.m-text-spaced{
+    /*--字间距--*/
+    letter-spacing: 1px !important;
+}
+.m-text-lined{
+    /*--行间距--*/
+    line-height: 1.8;
+}
