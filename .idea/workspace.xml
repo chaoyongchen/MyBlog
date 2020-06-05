@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cqTS5DheUbxMGzEL90oN0Vf1fr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +27,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,6 +48,7 @@
       <workItem from="1591255121868" duration="8298000" />
       <workItem from="1591277298624" duration="3118000" />
       <workItem from="1591315923600" duration="8592000" />
+      <workItem from="1591333553945" duration="1388000" />
     </task>
     <servers />
   </component>
@@ -50,10 +56,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="54" key="#Notifications" timestamp="1591333638286">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="54" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1591333638286" />
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591261242014">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591261242014" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1591355956096">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591355956096" />
+    <state x="279" y="134" key="FileChooserDialogImpl" timestamp="1591355720158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="279" y="134" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591355720158" />
     <state width="1308" height="115" key="GridCell.Tab.0.bottom" timestamp="1591261193174">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -102,6 +120,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1308" height="115" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1591261193175" />
+    <state x="0" y="21" key="SettingsEditor" timestamp="1591355730853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591355730853" />
+    <state x="475" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591355776376">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1591355776376" />
     <state x="719" y="0" width="647" height="738" key="find.popup" timestamp="1591262571706">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
