@@ -1,4 +1,12 @@
 
+.m-padded-mini {
+    padding: 0.2em !important;
+}
+
+.m-padded-tiny {
+    padding: 0.3em !important;
+}
+
 .m-padded-tb-mini {
     padding-top: 0.2em !important;
     padding-bottom: 0.2em !important;
@@ -8,6 +16,7 @@
     padding-top: 0.3em !important;
     padding-bottom: 0.3em !important;
 }
+
 .m-padded-tb-small {
     padding-top: 0.5em !important;
     padding-bottom: 0.5em !important;
@@ -33,30 +42,46 @@
     padding-bottom: 4em !important;
 }
 
-.m-padded-tb-massive{
+.m-padded-tb-massive {
     padding-top: 5em !important;
     padding-bottom: 5em !important;
 }
 
 /*----text---*/
-.m-text-thin{
+.m-text {
+    font-weight: 300 !important;
+    letter-spacing: 1px !important;
+    line-height: 1.8 !important;
+}
+
+.m-text-thin {
     /*--宽度--*/
     font-weight: 300 !important;
 }
-.m-text-spaced{
+
+.m-text-spaced {
     /*--字间距--*/
     letter-spacing: 1px !important;
 }
-.m-text-lined{
+
+.m-text-lined {
     /*--行间距--*/
     line-height: 1.8;
 }
+
 /*透明度*/
-.m-opacity-mini{
+.m-opacity-mini {
     /*--透明度--*/
     opacity: 0.7;
 }
+
 /*display*/
-.m-inline-block{
-    display: inline-block; !important;
+.m-inline-block {
+    display: inline-block;
+!important;
+}
+
+.m-container {
+    max-width: 72em !important;
+    margin: auto !important;
 }
