@@ -4,7 +4,6 @@
     <list default="true" id="d986c818-921a-4485-a09d-5f992b11ad42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/me.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,10 @@
       <workItem from="1591434968186" duration="725000" />
       <workItem from="1591582043520" duration="4897000" />
       <workItem from="1591590292533" duration="1246000" />
-      <workItem from="1591688255322" duration="5721000" />
+      <workItem from="1591688255322" duration="6436000" />
+      <workItem from="1591767391882" duration="1891000" />
+      <workItem from="1592276385774" duration="617000" />
+      <workItem from="1592298762380" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="index.html updates">
       <created>1591356017794</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591590334489</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="index.html updates，列表">
+      <created>1591697969974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591697969974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index.html updates" />
     <MESSAGE value="index.html updates，添加左边分类标签" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html updates，添加左边分类标签" />
+    <MESSAGE value="index.html updates，列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html updates，列表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="54" key="#Notifications" timestamp="1591333638286">
@@ -115,10 +125,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591261242014" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1591590331862">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1591697966772">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591590331862" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591697966772" />
     <state x="279" y="134" key="FileChooserDialogImpl" timestamp="1591355720158">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -175,10 +185,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="0" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591414011322" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591590340132">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1591697976838">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1591590340132" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1591697976838" />
     <state x="475" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591355776376">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
