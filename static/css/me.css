@@ -68,21 +68,31 @@
     /*--行间距--*/
     line-height: 1.8;
 }
-.m-black{
-/*    字体颜色*/
+
+.m-black {
+    /*    字体颜色*/
     color: #000000;
 }
 
 /*透明度*/
+.m-right-top {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
 .m-opacity-mini {
     /*--透明度--*/
     opacity: 0.7;
 }
+
 /*---margin----*/
-.m-margin-tb-tiny{
+.m-margin-tb-tiny {
     margin-top: 0.3em !important;
     margin-bottom: 0.3em !important;
 }
+
 /*display*/
 .m-inline-block {
     display: inline-block !important;
@@ -91,4 +101,15 @@
 .m-container {
     max-width: 72em !important;
     margin: auto !important;
+}
+.m-mobile-show{
+    display: none !important;
+}
+@media screen and (max-width:768px) {
+    .m-mobile-hide{
+        display: none !important;
+    }
+    .m-mobile-show{
+        display: block !important;
+    }
 }
