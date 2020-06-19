@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d986c818-921a-4485-a09d-5f992b11ad42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5bfd603c2ccea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5bfd603c2cdac.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/me.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +69,7 @@
       <workItem from="1592298762380" duration="4531000" />
       <workItem from="1592354579382" duration="1362000" />
       <workItem from="1592444583011" duration="4497000" />
-      <workItem from="1592535435731" duration="77000" />
+      <workItem from="1592535435731" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="index.html updates">
       <created>1591356017794</created>
@@ -154,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592355327326</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="index.html 手机端自适应增加">
+      <created>1592535541624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592535541625</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,19 +170,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="index.html 手机端自适应增加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="54" key="#Notifications" timestamp="1591333638286">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="0" y="56" key="#Notifications" timestamp="1592536463856">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="54" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1591333638286" />
+    <state x="0" y="56" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1592536463856" />
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591261242014">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591261242014" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592355325856">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592535535825">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591697966772" />
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1592355325856" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1592535535825" />
     <state x="279" y="134" key="FileChooserDialogImpl" timestamp="1591355720158">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -238,11 +240,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="0" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591414011322" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592355329065">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592535545647">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1591697976838" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1592355329065" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1592535545647" />
     <state x="475" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591355776376">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
