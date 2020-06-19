@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d986c818-921a-4485-a09d-5f992b11ad42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/5bfd603c2ccea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/5bfd603c2cdac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/me.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +26,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cqTS5DheUbxMGzEL90oN0Vf1fr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,6 +43,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\MyBlog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\DlogDevelopWorkSpace\static\images" />
     </key>
@@ -61,7 +73,9 @@
       <workItem from="1591767391882" duration="1891000" />
       <workItem from="1592276385774" duration="617000" />
       <workItem from="1592298762380" duration="4531000" />
-      <workItem from="1592354579382" duration="728000" />
+      <workItem from="1592354579382" duration="1362000" />
+      <workItem from="1592444583011" duration="4497000" />
+      <workItem from="1592535435731" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="index.html updates">
       <created>1591356017794</created>
@@ -133,13 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592354760043</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="index.html 手机端自适应增加">
+      <created>1592355327326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592355327326</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="index.html updates" />
     <MESSAGE value="index.html updates，添加左边分类标签" />
     <MESSAGE value="index.html updates，列表" />
@@ -155,11 +177,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="274" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1591261242014" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592354758237">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592355325856">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591697966772" />
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1592354758237" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1592355325856" />
     <state x="279" y="134" key="FileChooserDialogImpl" timestamp="1591355720158">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -216,11 +238,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="0" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591414011322" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592354763344">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592355329065">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1591697976838" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1592354763344" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1592355329065" />
     <state x="475" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591355776376">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
