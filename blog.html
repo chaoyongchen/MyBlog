@@ -62,17 +62,66 @@
 
             <div class="ui attached segment">
                 <!-- 内容 -->
-                <div class="ui right aligned segment"> 
-                    <div class="ui orange label">
+                <div class="ui right aligned basic segment">
+                    <div class="ui orange basic label">
                         原创
                     </div>
-
                 </div>
+                <!-- 标题 -->
+                <h2 class="ui center aligned header">Jenkins的介绍</h2>
+                <!-- 文章内容content -->
+                <div id="content" class="m-padded-lr m-padded-tb-large ui aligned">
+                    <h1>一、jenkins是什么？</h1>
+                    <p>
+                        Jenkins是一个开源的、提供友好操作界面的持续集成(CI)工具，起源于Hudson（Hudson是商用的），主要用于持续、自动的构建/测试软件项目、监控外部任务的运行（这个比较抽象，暂且写上，不做解释）。Jenkins用Java语言编写，可在Tomcat等流行的servlet容器中运行，也可独立运行。通常与版本管理工具(SCM)、构建工具结合使用。常用的版本控制工具有SVN、GIT，构建工具有Maven、Ant、Gradle。
+                    </p>
+                    <h1>二、CI/CD是什么？</h1>
+                    <p> CI(Continuousintegration，中文意思是持续集成)是一种软件开发时间。持续集成强调开发人员提交了新代码之后，立刻进行构建、（单元）测试。根据测试结果，我们可以确定新代码和原有代码能否正确地集成在一起。借用网络图片对CI加以理解。
+                    </p>
+                    <p> CD(Continuous
+                        Delivery，中文意思持续交付)是在持续集成的基础上，将集成后的代码部署到更贴近真实运行环境(类生产环境)中。比如，我们完成单元测试后，可以把代码部署到连接数据库的Staging环境中更多的测试。如果代码没有问题，可以继续手动部署到生产环境。下图反应的是CI/CD的大概工作模式。
+                    </p>
+                    <h1>三、使用Jenkins进行PHP代码(单元)测试、打包。</h1>
+                    <p> Jenkins是一个强大的CI工具，虽然本身使用Java开发，但也能用来做其他语言开发的项目CI。下面讲解如何使用Jenkins创建一个构建任务。</p>
+                    <p> 登录Jenkins， 点击左侧的新建，创建新的构建任务。</p>
+                </div>
+                <!-- 标签 -->
 
+                <div class="m-padded-lr">
+                    <div class="ui basic teal left pointing label ">jenkins</div>
+                </div>
+                <!-- 赞赏 -->
+                <div id="payButton" class="ui center aligned basic segment"><button class="ui orange basic circluar button">赞赏</button>
+                </div>
+                <div class="ui payQ flowing popup top left transition hidden">
+                    <div class="ui orange basic label">
+                        <div class="ui images " style="font-size: inherit !important;">
+                            <div class="image">
+                                <img src="./static/images/wechat.jpg" alt="" class="ui rounded bordered imag"
+                                    style="width: 120px;">
+                                    <div>支付宝</div>
+                            </div>
+                            <div class="image">
+                                <img src="./static/images/wechat.jpg" alt="" class="ui rounded bordered imag"
+                                    style="width: 120px;">
+                                    <div>微信</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           
             </div>
 
             <div class="ui attached positive segment">
                 博客信息
+                <div class="ui grid">
+                    <div class="eleven wide column">
+
+                    </div>
+                    <div class="five wide column">
+                        <img src="./static/images/WeChat.jpg" alt="" class="ui right floated rounded image" style="width: 120px;">
+                    </div>
+                </div>
             </div>
 
             <div class="ui bottom attached segment">
@@ -126,7 +175,16 @@
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.2/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
-    <script>$('.menu.toggle').click(function () { $('.m-item').toggleClass('m-mobile-hide') });</script>
+   
+    <script>
+    $('.menu.toggle').click(function () { $('.m-item').toggleClass('m-mobile-hide') });
+    $('#payButton').popup({
+        popup:$('payQ.popup'),
+        on:'click',
+        position:'bottom center'
+    });
+    
+    </script>
 </body>
 
 </html>
